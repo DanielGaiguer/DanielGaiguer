@@ -44,7 +44,7 @@
 <h3 align="center">Stack Principal</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,nextjs,typescript,js,html,css,postgresql,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=typescript,js,nodejs,java,react,nextjs,html,css,postgresql,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -85,6 +85,7 @@ Timer inteligente baseado na técnica Pomodoro, criado com TypeScript e React. A
 🚑 **MedLinker Desktop**  
 Sistema desktop para gerenciamento de plantões médicos com interface gráfica e banco de dados.
 
+
 ---
 
 <h3 align="center">Estudos Atuais</h3>
@@ -94,18 +95,6 @@ Sistema desktop para gerenciamento de plantões médicos com interface gráfica 
 📌 SOLID Principles  
 📌 Desenvolvimento Full Stack  
 📌 Engenharia de sistemas
-
----
-
-<h3 align="center">Estatísticas do GitHub</h3>
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielGaiguer&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGaiguer&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
