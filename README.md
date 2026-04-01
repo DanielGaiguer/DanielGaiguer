@@ -71,7 +71,8 @@
 
 
 🌐 **Check-in Verifier**  
-Aplicação Full-Stack para gerencimanto de Check-ins diários, resolvendo problemas reais.
+Aplicação Full-Stack para gerenciamento de Check-ins diários, resolvendo problemas reais.
+---
 
 📚 **Pcb Tip Manager**  
 Sistema feito para melhor gerenciamento de uma Protoripadora PCB.
@@ -82,8 +83,9 @@ Projeto de estudos com foco na aplicação prática dos princípios SOLID segund
 🛠️ **Pomodoro Timer**  
 Timer inteligente baseado na técnica Pomodoro, criado com TypeScript e React. Auxilia no gerenciamento eficiente do tempo, aumentando produtividade e foco durante tarefas e estudos.
 
-🚑 **MedLinker Desktop**  
+🚑 **MedLinker Desktop**
 Sistema desktop para gerenciamento de plantões médicos com interface gráfica e banco de dados.
+
 ---
 
 <h3 align="center">Estudos Atuais</h3>
