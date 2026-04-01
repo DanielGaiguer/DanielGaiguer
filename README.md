@@ -82,7 +82,7 @@ Projeto de estudos com foco na aplicação prática dos princípios SOLID segund
 🛠️ **Pomodoro Timer**  
 Timer inteligente baseado na técnica Pomodoro, criado com TypeScript e React. Auxilia no gerenciamento eficiente do tempo, aumentando produtividade e foco durante tarefas e estudos.
 
-🚑 **MedLinker Desktop**
+🚑 **MedLinker Desktop**  
 Sistema desktop para gerenciamento de plantões médicos com interface gráfica e banco de dados.
 
 ---
