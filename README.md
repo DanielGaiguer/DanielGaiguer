@@ -79,7 +79,7 @@ Sistema feito para melhor gerenciamento de uma Protoripadora PCB.
 🛠️ **Typescript Solid**  
 Projeto de estudos com foco na aplicação prática dos princípios SOLID segundo a metodologia apresentada nas aulas do professor Luiz Otávio Miranda.
 
-🛠️ **Pomodoro Timer**  
+🍅 **Pomodoro Timer**  
 Timer inteligente baseado na técnica Pomodoro, criado com TypeScript e React. Auxilia no gerenciamento eficiente do tempo, aumentando produtividade e foco durante tarefas e estudos.
 
 🚑 **MedLinker Desktop**  
