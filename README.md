@@ -72,7 +72,6 @@
 
 🌐 **Check-in Verifier**  
 Aplicação Full-Stack para gerenciamento de Check-ins diários, resolvendo problemas reais.
----
 
 📚 **Pcb Tip Manager**  
 Sistema feito para melhor gerenciamento de uma Protoripadora PCB.
