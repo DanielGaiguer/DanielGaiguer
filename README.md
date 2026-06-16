@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Software Developer | TypeScript • Node.js • Java •  React • Next.js •  SQL
+  Software Developer | TypeScript • Node.js • Java • Spring Boot •  React • Next.js •  SQL
 </p>
 
 ---
